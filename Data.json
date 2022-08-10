@@ -1,0 +1,29 @@
+{
+  "customer1": {
+    "Name": "Archit Sharma",
+    "ID": "A000112plp",
+    "Address": "#209, Palampur, HP, 176061",
+    "Email": "archit04.sharma@gmail.com",
+    "Services": "Premium Renter"
+  },
+  "bill1": {
+    "1": {
+      "Sr.No": "1",
+      "PackageName": "2BHK Rental Space",
+      "Qty": "1",
+      "Rate": "25000"
+    },
+    "2": {
+      "Sr.No": "2",
+      "PackageName": "Furniture Essential",
+      "Qty": "3",
+      "Rate": "10000"
+    },
+    "3": {
+      "Sr.No": "3",
+      "PackageName": "Parking Space",
+      "Qty": "1",
+      "Rate": "3500"
+    }
+  }
+}
